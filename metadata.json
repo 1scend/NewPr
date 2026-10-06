@@ -1,0 +1,6 @@
+{
+  "name": "SOUL FIT — Современный фитнес-клуб",
+  "description": "Современный фитнес-клуб SOUL FIT в Нижнекамске для тех, кто выбирает движение, развитие и качество жизни.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
